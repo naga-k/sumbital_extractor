@@ -10,8 +10,6 @@ import json
 from dataclasses import dataclass, asdict
 from typing import List, Optional, Dict, Tuple
 import time
-import ssl
-import httpx
 
 import streamlit as st
 import pandas as pd
